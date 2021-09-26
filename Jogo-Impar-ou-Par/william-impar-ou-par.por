@@ -1,10 +1,10 @@
 programa {
  	//	Por William Gustavo da Silva Melo
-	//  Turma 911 - Informática Matutino
+	//  Turma 911 - Informática Matutino 1º ano
  	//	22/09/2021
 
 	//	Comentário do Tutor, Guilherme:
-	//	Ficou muito descontraído, informal e o output bem organizado hehehe 
+	//	"Ficou muito descontraído, informal e o output bem organizado hehehe "
 
 
     inclua biblioteca Util
