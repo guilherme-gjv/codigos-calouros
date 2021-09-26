@@ -3,7 +3,7 @@ programa {
 	//  Turma 911 - Informática Matutino 1º ano
  	//	22/09/2021
 
-	//	Comentário do Tutor, Guilherme:
+	//	Comentário do Tutor - Guilherme:
 	//	"Ficou muito descontraído, informal e o output bem organizado hehehe "
 
 
