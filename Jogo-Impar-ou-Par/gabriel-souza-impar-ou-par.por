@@ -1,7 +1,7 @@
 programa{
 
 
-	//	Por Gabriel Souza da Silva
+	//	Por Gabriel Souza da Silva [com adaptações do Guilherme]
 	//  Turma 921 - Informática Vespertino 1º ano
  	//	25/09/2021
 
