@@ -1,26 +1,23 @@
 programa{
-
-
-	//	Por Gabriel Souza da Silva [com adaptações do Guilherme]
-	//  Turma 921 - Informática Vespertino 1º ano
- 	//	25/09/2021
-
-	//	Comentário do Tutor - Guilherme:
-	//		"Muito bom! O ótima organização, identação e simplicidade :)"
-
-
 	inclua biblioteca Util --> u
 	inteiro N, valor, soma, imp_par
 	funcao inicio(){
 		cadeia nome
+		inteiro jogarNovamente=1
 		escreva("Olá! Bem vindo ao game do ímpar ou par!")
 		escreva("\n\nPrimeiramente, infome o seu nome: ")
 		leia(nome)
-		
-		limpa()
-		apostador(nome)
-		meuValor()
-		decisao(nome)
+		faca{
+			limpa()
+			apostador(nome)
+			meuValor()
+			decisao(nome)
+
+			escreva("\nDeseja jogar novamente? \n 1 - Sim \n 2 - Não")
+			leia(jogarNovamente)
+			
+		}enquanto(jogarNovamente == 1)
+			
 	}
 	
 	funcao apostador(cadeia nome){
@@ -93,7 +90,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1356; 
+ * @POSICAO-CURSOR = 104; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {valor, 3, 12, 5};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
