@@ -1,4 +1,12 @@
 programa{
+
+	//	Por Camila Lima da Silva
+	//  Turma 921 - Informática Vespertino
+ 	//	25/09/2021
+
+	//	Comentário do Tutor, Guilherme:
+	//	Ficou muito descontraído, informal e o output bem organizado hehehe 
+
   inclua biblioteca Util --> u
   	real NA921[36][4]
   	

@@ -1,4 +1,6 @@
 programa{
+
+	
 	inclua biblioteca Util --> u
 	inteiro N, valor, soma, imp_par
 	funcao inicio(){
