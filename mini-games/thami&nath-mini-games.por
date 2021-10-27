@@ -1,12 +1,13 @@
 programa
 {
 
-	//	Por William Gustavo da Silva Melo
-	//  Turma 911 - Informática Matutino
- 	//	22/09/2021
+	//	Por Thamiris de Souza Santos, Náthally Alves da Silva Braz
+	//  Turma 921 - Informática Vespertino 1º ano [ambas]
+ 	//	25/09/2021
 
-	//	Comentário do Tutor, Guilherme:
-	//	Ficou muito descontraído, informal e o output bem organizado hehehe 
+	//	Comentário do Tutor - Guilherme:
+	//		"Impecável, trabalho incrível e completo, também me surpreendeu o número de mini-games, 
+	//  fizeram três quando foi requisitado apenas um. "
 
 
 
