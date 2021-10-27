@@ -5,7 +5,8 @@ programa{
  	//	25/09/2021
 
 	//	Comentário do Tutor, Guilherme:
-	//	Ficou muito descontraído, informal e o output bem organizado hehehe 
+	//		"Muito completo. Ótimo uso de arrays(vetores/matrizes). A lógica desse 
+	//	sistema vai ser	muito útil no 2º ano com a matéria de Programação Orientada a Objeto."
 
   inclua biblioteca Util --> u
   	real NA921[36][4]
@@ -14,7 +15,7 @@ programa{
 	
 	 	menu()
 	
-}
+	}
 	funcao menu(){
 		inteiro decisao = 0
 		limpa()
