@@ -1,6 +1,12 @@
 programa{
 
-	
+	//	Por Gabriel Souza da Silva
+	//  Turma 921 - Informática Vespertino 1º ano
+ 	//	25/09/2021
+
+	//	Comentário do Tutor, Guilherme:
+	//		"Muito bom! O ótima organização, identação e simplicidade :)"
+
 	inclua biblioteca Util --> u
 	inteiro N, valor, soma, imp_par
 	funcao inicio(){
