@@ -5,7 +5,7 @@ programa{
  	//	25/09/2021
 
 	//	Comentário do Tutor, Guilherme:
-	//	Ficou muito descontraído, informal e o output bem organizado hehehe 
+	//		"falta de respeito com quem perdeu KKKKKKKKKKKK mt bom"
 
   inclua biblioteca Util --> u
 	funcao inicio(){
